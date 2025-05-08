@@ -1,5 +1,5 @@
-<img width="1916" alt="image" src="https://github.com/user-attachments/assets/c65dbf5d-eac3-436a-8065-aff502638f34" />
-<img width="1916" alt="image" src="https://github.com/user-attachments/assets/98c0dc2e-050b-4455-8b62-8cfacba5a8e9" />
+<img width="1919" alt="image" src="https://github.com/user-attachments/assets/542465a2-b029-4192-890e-4df4721c7700" />
+
 
 
 🖼️ a1.art API
