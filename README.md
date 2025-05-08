@@ -44,7 +44,7 @@ Receive your AI-generated image(s) via JSON
 
 📚 Documentation
 
-Explore the full API documentation, including parameters, authentication, rate limits, and webhook support at https://a1.art/ai-image-generator-api:
+Explore the full API documentation, including parameters, authentication, rate limits, and webhook support at: https://a1.art/ai-image-generator-api
 
 
 🤝 Partner With Us
