@@ -1,3 +1,7 @@
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/c65dbf5d-eac3-436a-8065-aff502638f34" />
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/98c0dc2e-050b-4455-8b62-8cfacba5a8e9" />
+
+
 🖼️ a1.art API
 An intuitive and powerful API for generating AI-powered cute and romantic avatars, artworks, and illustrations at scale. Perfect for apps, games, ecommerce, social avatars, and digital gifts.
 
